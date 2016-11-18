@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebResourcesPaths">
+    <contentEntries>
+      <entry url="file://$PROJECT_DIR$">
+        <entryData>
+          <resourceRoots>
+            <path value="file://$PROJECT_DIR$/src/html" />
+            <path value="file://$PROJECT_DIR$/src/html/images" />
+            <path value="file://$PROJECT_DIR$/src/html/scripts" />
+            <path value="file://$PROJECT_DIR$/src/html/stylesheets" />
+            <path value="file://$PROJECT_DIR$/src" />
+            <path value="file://$PROJECT_DIR$/src/books/src" />
+            <path value="file://$PROJECT_DIR$/mobile-src" />
+            <path value="file://$PROJECT_DIR$/mobile-src/StarTrackr" />
+          </resourceRoots>
+        </entryData>
+      </entry>
+    </contentEntries>
+  </component>
+</project>

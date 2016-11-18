@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb59a3d4-2341-48b3-912c-5c3b15fdc225" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="bb59a3d4-2341-48b3-912c-5c3b15fdc225" name="Default" comment="" />
     <ignored path="PhpStorm-Scripts.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -50,8 +48,8 @@
           <file leaf-file-name="articles.sql" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/articles.sql">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
-                  <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+                <state relative-caret-position="0">
+                  <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
                   <folding />
                 </state>
               </provider>
@@ -437,12 +435,12 @@
       <workItem from="1479395178999" duration="9711000" />
       <workItem from="1479452679790" duration="590000" />
       <workItem from="1479454309578" duration="1793000" />
-      <workItem from="1479456337048" duration="2461000" />
+      <workItem from="1479456337048" duration="2462000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67618000" />
+    <option name="totallyTimeSpent" value="67619000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -905,18 +903,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/articles.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/14.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
           <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/articles.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
           <folding />
         </state>
       </provider>
