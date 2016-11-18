@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb59a3d4-2341-48b3-912c-5c3b15fdc225" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/14.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PhpStorm-Scripts.iws" />
@@ -438,12 +437,12 @@
       <workItem from="1479395178999" duration="9711000" />
       <workItem from="1479452679790" duration="590000" />
       <workItem from="1479454309578" duration="1793000" />
-      <workItem from="1479456337048" duration="1869000" />
+      <workItem from="1479456337048" duration="2461000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67026000" />
+    <option name="totallyTimeSpent" value="67618000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
