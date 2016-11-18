@@ -19,4 +19,11 @@ $sql = "INSERT INTO
            body='This is an example',
            author='HarryF'";
 
-// Run
+// Run the query, identifying the connection
+$queryResource = mysql_query($sql, $dbConn);
+
+// Fetch the inserted ID
+$insertID = mysql_insert_id($dbConn);
+
+echo 'The new row has ID: ' . $insertID;
+?>

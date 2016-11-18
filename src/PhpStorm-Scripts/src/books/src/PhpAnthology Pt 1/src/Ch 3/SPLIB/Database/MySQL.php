@@ -188,4 +188,14 @@ class MySQL {
    {
        return mysql_num_rows($this->query);
    }
+
+   /**
+    * Returns the ID of the last row inserted
+    * @return int
+    * @access public
+    */
+   function insertID()
+   {
+       return mysql_insert_id($this->mysql->dbConn);
+   }
 }
