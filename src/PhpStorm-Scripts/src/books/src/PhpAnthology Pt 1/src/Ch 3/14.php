@@ -24,5 +24,6 @@ $queryResource = mysql_query($sql, $dbConn);
 while ($row = mysql_fetch_array($queryResource, MYSQL_ASSOC)) {
     echo 'Title: ' . $row['title'] . '<br />';
     echo 'Author: ' . $row['author'] . '<br />';
-    echo 'Body: ' . $row['']
+    echo 'Body: ' . $row['body'] . '<br />';
 }
+?>

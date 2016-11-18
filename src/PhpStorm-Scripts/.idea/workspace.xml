@@ -1,7 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb59a3d4-2341-48b3-912c-5c3b15fdc225" name="Default" comment="" />
+    <list default="true" id="bb59a3d4-2341-48b3-912c-5c3b15fdc225" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Ch 16/Img-exp.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Ch 16/video.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/demos/pattern/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/dist/fonts/sourcecodepro-regular-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/dist/fonts/sourcecodepro-regular-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/dist/fonts/sourcesanspro-light-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/dist/fonts/sourcesanspro-light-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/dist/fonts/sourcesanspro-regular-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/dist/fonts/sourcesanspro-regular-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/dist/fonts/sourcesanspro-semibold-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/dist/fonts/sourcesanspro-semibold-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/canvas-primer/150x150opera9.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/canvas-primer/example-drawimage.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/canvas-primer/example-gradients.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/canvas-primer/example-imagedata.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/canvas-primer/example-rects.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/canvas-primer/example-shadows.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/canvas-primer/example-text.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/canvas-primer/example-triangle.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 10/Sita_Sings_the_Blues_Excerpt.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 10/Sita_Sings_the_Blues_Excerpt.ogv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 10/Sita_Sings_the_Blues_Excerpt.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/fully styled player/font-awesome/font/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/fully styled player/font-awesome/font/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/fully styled player/font-awesome/font/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/15.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/16.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/17.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Basics/Ch 03/article.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Basics/Ch 03/homepage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Basics/Ch 03/s.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Basics/Ch 04/Form/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Basics/Ch 04/Form/s.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Ch 16/Test.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Ch 16/container2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Ch 18/A gradient circle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Ch 18/Background 2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Ch 18/Patterns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Ch 19/Bezier.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Ch 19/Cubic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Ch 20/Filter 2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Ch 20/Filter 3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Ch 20/Filter multi.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Ch 20/Filter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Contents page downloadable content.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/.gitmodules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/CONTRIBUTING" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/NOTICE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/demos/animated-game/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/demos/animated-game/js/backbone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/demos/animated-game/js/jquery-1.9.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/demos/animated-game/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/demos/animated-game/js/path-animal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/demos/animated-game/js/seedrandom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/demos/animated-game/js/snap.svg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/demos/animated-game/js/tree-face.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/demos/animated-game/js/underscore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/demos/animated-map/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/demos/animated-map/map.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/demos/illustrated-infographic-coffee/demo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/demos/illustrated-infographic-coffee/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/demos/pattern/demo-card.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/demos/pattern/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/demos/snap-mascot/crocodile-1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/demos/snap-mascot/crocodile-2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/demos/snap-mascot/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/demos/snap-mascot/snap-logo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/demos/snap-mascot/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/demos/tutorial/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/demos/tutorial/mascot.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/demos/tutorial/tutorial.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/dist/css/dr.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/dist/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/dist/css/prism.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/dist/css/topcoat-desktop-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/dist/fonts/sourcecodepro-regular-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/dist/fonts/sourcecodepro-regular-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/dist/fonts/sourcesanspro-light-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/dist/fonts/sourcesanspro-light-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/dist/fonts/sourcesanspro-regular-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/dist/fonts/sourcesanspro-regular-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/dist/fonts/sourcesanspro-semibold-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/dist/fonts/sourcesanspro-semibold-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/dist/fonts/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/dist/img/search.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/dist/img/search_dark.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/dist/js/prism.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/dist/reference.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/dist/snap.svg-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/dist/snap.svg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/dr.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/src/amd-banner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/src/amd-footer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/src/copy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/src/equal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/src/filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/src/mina.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/src/mouse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/src/path.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/src/set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/src/svg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/test/attrs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/test/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/test/element.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/test/filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/test/matrix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/test/mina.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/test/paper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/test/path.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/test/primitives.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/test/res/external-svg.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/test/res/file-for-ajax.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/test/set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/test/snap-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/test/system.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/Snap.svg-0.1.0/test/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/canvas-primer/example-drawimage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/canvas-primer/example-gradients.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/canvas-primer/example-imagedata.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/canvas-primer/example-imagedata2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/canvas-primer/example-paths.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/canvas-primer/example-rects.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/canvas-primer/example-shadows.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/canvas-primer/example-text.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/canvas-primer/example-triangle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/canvas-primer/example-using-canvas.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/canvas-primer/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Canvas &amp; SVG/Downloadable samples/canvas-primer/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 10/cues.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 10/dialogue.vtt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 10/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/Minimally styled player/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/Minimally styled player/video.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/Minimally styled player/video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/fully styled player/font-awesome/css/font-awesome-ie7.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/fully styled player/font-awesome/css/font-awesome-ie7.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/fully styled player/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/fully styled player/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/fully styled player/font-awesome/font/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/fully styled player/font-awesome/font/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/fully styled player/font-awesome/less/bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/fully styled player/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/fully styled player/font-awesome/less/extras.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/fully styled player/font-awesome/less/font-awesome-ie7.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/fully styled player/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/fully styled player/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/fully styled player/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/fully styled player/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/fully styled player/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/fully styled player/font-awesome/scss/_bootstrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/fully styled player/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/fully styled player/font-awesome/scss/_extras.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/fully styled player/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/fully styled player/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/fully styled player/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/fully styled player/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/fully styled player/font-awesome/scss/font-awesome-ie7.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/fully styled player/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/fully styled player/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/fully styled player/video.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Multimedia/Ch 11/fully styled player/video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Offline Apps/Ch 23/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Offline Apps/Ch 23/imgs/checkOk.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Offline Apps/Ch 23/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Offline Apps/Ch 23/js/appcache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Offline Apps/Ch 23/js/todolist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Offline Apps/Ch 23/todolist.appcache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Offline Apps/Ch 24/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Offline Apps/Ch 24/imgs/checkOk.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Offline Apps/Ch 24/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Offline Apps/Ch 24/js/addEventListenerPolyfill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/jshtml1-master/src/Offline Apps/Ch 24/js/todolist.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/Brian_Gerrits.xml" afterPath="$PROJECT_DIR$/.idea/copyright/Brian_Gerrits.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/14.php" afterPath="$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/14.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/SPLIB/Database/MySQL.php" afterPath="$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/SPLIB/Database/MySQL.php" />
+    </list>
     <ignored path="PhpStorm-Scripts.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -31,12 +213,40 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="14.php" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/14.php">
+          <file leaf-file-name="MySQL.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/SPLIB/Database/MySQL.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="468">
-                  <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+                <state relative-caret-position="770">
+                  <caret line="188" column="43" selection-start-line="188" selection-start-column="43" selection-end-line="188" selection-end-column="43" />
                   <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="16.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/16.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="540">
+                  <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+                  <folding>
+                    <element signature="e#6#72#0#PHP" expanded="true" />
+                    <marker date="1479462184070" expanded="true" signature="286:323" ph="UPDATE artic... " />
+                    <marker date="1479462184070" expanded="true" signature="286:414" ph="UPDATE artic... " />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="17.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/17.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="378">
+                  <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+                  <folding>
+                    <element signature="e#7#73#0#PHP" expanded="true" />
+                    <marker date="1479462345035" expanded="true" signature="197:287" ph="INSERT INTO articles" />
+                    <marker date="1479462345035" expanded="true" signature="197:353" ph="INSERT INTO articles" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -79,9 +289,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/OOP PHP/003 Chapter3/22.php" />
-        <option value="$PROJECT_DIR$/src/OOP PHP/003 Chapter3/Articles.php" />
-        <option value="$PROJECT_DIR$/src/WordPress Website 1/wp-comments-post.php" />
         <option value="$PROJECT_DIR$/src/books/src/PHPPRO1-master/src2/chapter_01/simple_class.php" />
         <option value="$PROJECT_DIR$/src/books/src/PHPPRO1-master/src2/chapter_01/1.php" />
         <option value="$PROJECT_DIR$/src/books/src/PHPPRO1-master/src2/chapter_01/Parcel.php" />
@@ -125,11 +332,14 @@
         <option value="$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/8.php" />
         <option value="$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/9.php" />
         <option value="$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/10.php" />
-        <option value="$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/SPLIB/Database/MySQL.php" />
         <option value="$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/11.php" />
         <option value="$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/12.php" />
         <option value="$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/13.php" />
         <option value="$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/14.php" />
+        <option value="$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/SPLIB/Database/MySQL.php" />
+        <option value="$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/15.php" />
+        <option value="$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/16.php" />
+        <option value="$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/17.php" />
       </list>
     </option>
   </component>
@@ -152,6 +362,22 @@
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -287,6 +513,44 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PhpStorm-Scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PhpStorm-Scripts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PhpAnthology Pt 1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ch 3" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SPLIB" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -295,7 +559,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.selected.configurable" value="copyright.profiles" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
@@ -435,12 +699,12 @@
       <workItem from="1479395178999" duration="9711000" />
       <workItem from="1479452679790" duration="590000" />
       <workItem from="1479454309578" duration="1793000" />
-      <workItem from="1479456337048" duration="2462000" />
+      <workItem from="1479456337048" duration="4354000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67619000" />
+    <option name="totallyTimeSpent" value="69511000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -520,27 +784,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 2/3.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 2/4.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="656">
-          <caret line="90" column="19" selection-start-line="90" selection-start-column="19" selection-end-line="90" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 2/14.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="52" column="2" selection-start-line="52" selection-start-column="2" selection-end-line="52" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/1.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -873,14 +1116,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/SPLIB/Database/MySQL.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3222">
-          <caret line="181" column="0" selection-start-line="181" selection-start-column="0" selection-end-line="181" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/12.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -903,19 +1138,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/14.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/articles.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/14.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/15.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+          <folding>
+            <element signature="e#6#72#0#PHP" expanded="true" />
+            <marker date="1479461353463" expanded="true" signature="288:332" ph="SELECT * FRO... articles" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/SPLIB/Database/MySQL.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="188" column="43" selection-start-line="188" selection-start-column="43" selection-end-line="188" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/16.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+          <folding>
+            <element signature="e#6#72#0#PHP" expanded="true" />
+            <marker date="1479462184070" expanded="true" signature="286:323" ph="UPDATE artic... " />
+            <marker date="1479462184070" expanded="true" signature="286:414" ph="UPDATE artic... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/17.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+          <folding>
+            <element signature="e#7#73#0#PHP" expanded="true" />
+            <marker date="1479462345035" expanded="true" signature="197:287" ph="INSERT INTO articles" />
+            <marker date="1479462345035" expanded="true" signature="197:353" ph="INSERT INTO articles" />
+          </folding>
         </state>
       </provider>
     </entry>
