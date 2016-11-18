@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb59a3d4-2341-48b3-912c-5c3b15fdc225" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/18.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/19.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/SPLIB/Database/MySQLDump.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/The JavaScript Anthology/src/Ch 12/add_new_style_sheet_rules.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/The JavaScript Anthology/src/Ch 12/read_modify_existing_style_sheet2.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/17.php" afterPath="$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/17.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/SPLIB/Database/MySQL.php" afterPath="$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/SPLIB/Database/MySQL.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/SPLIB/Database/MySQLDump.php" afterPath="$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/SPLIB/Database/MySQLDump.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WebStorm-Scripts/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/The JavaScript Anthology/src/Ch 12/read_modify_existing_style_sheet.js" afterPath="$PROJECT_DIR$/../WebStorm-Scripts/src/books/src/The JavaScript Anthology/src/Ch 12/read_modify_existing_style_sheet.js" />
     </list>
     <ignored path="PhpStorm-Scripts.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,7 +41,7 @@
           <file leaf-file-name="MySQL.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/SPLIB/Database/MySQL.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="712">
+                <state relative-caret-position="3528">
                   <caret line="198" column="52" selection-start-line="198" selection-start-column="52" selection-end-line="198" selection-end-column="52" />
                   <folding />
                 </state>
@@ -51,9 +51,11 @@
           <file leaf-file-name="MySQLDump.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/SPLIB/Database/MySQLDump.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="414">
-                  <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
-                  <folding />
+                <state relative-caret-position="752">
+                  <caret line="75" column="1" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
+                  <folding>
+                    <element signature="e#6#72#0#PHP" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -61,12 +63,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="articles.sql" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/articles.sql">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+                <state relative-caret-position="180">
+                  <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
                   <folding />
                 </state>
               </provider>
@@ -212,6 +214,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -402,7 +405,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -549,11 +551,12 @@
       <workItem from="1479452679790" duration="590000" />
       <workItem from="1479454309578" duration="1793000" />
       <workItem from="1479456337048" duration="10268000" />
+      <workItem from="1479472654307" duration="3372000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75425000" />
+    <option name="totallyTimeSpent" value="78797000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -568,7 +571,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2891374" sideWeight="0.49568966" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29233226" sideWeight="0.49568966" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286638" sideWeight="0.4978678" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33081895" sideWeight="0.51443374" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -966,14 +969,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/articles.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/14.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
@@ -987,7 +982,7 @@
         <state relative-caret-position="378">
           <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
           <folding>
-            <element signature="e#6#72#0#PHP" expanded="true" />
+            <element signature="e#6#72#0#PHP" expanded="false" />
             <marker date="1479461353463" expanded="true" signature="288:332" ph="SELECT * FRO... articles" />
           </folding>
         </state>
@@ -998,7 +993,7 @@
         <state relative-caret-position="504">
           <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
           <folding>
-            <element signature="e#7#73#0#PHP" expanded="true" />
+            <element signature="e#7#73#0#PHP" expanded="false" />
             <marker date="1479463071612" expanded="true" signature="197:287" ph="INSERT INTO articles" />
             <marker date="1479463071612" expanded="true" signature="197:353" ph="INSERT INTO articles" />
           </folding>
@@ -1010,7 +1005,7 @@
         <state relative-caret-position="540">
           <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
           <folding>
-            <element signature="e#6#72#0#PHP" expanded="true" />
+            <element signature="e#6#72#0#PHP" expanded="false" />
             <marker date="1479462184070" expanded="true" signature="286:323" ph="UPDATE artic... " />
             <marker date="1479462184070" expanded="true" signature="286:414" ph="UPDATE artic... " />
           </folding>
@@ -1022,7 +1017,7 @@
         <state relative-caret-position="594">
           <caret line="33" column="2" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
           <folding>
-            <element signature="e#6#72#0#PHP" expanded="true" />
+            <element signature="e#6#72#0#PHP" expanded="false" />
             <marker date="1479466819233" expanded="true" signature="209:372" ph="SELECT *, MA... " />
             <marker date="1479466819233" expanded="true" signature="209:420" ph="SELECT *, MA... " />
           </folding>
@@ -1034,7 +1029,7 @@
         <state relative-caret-position="594">
           <caret line="33" column="2" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
           <folding>
-            <element signature="e#6#72#0#PHP" expanded="true" />
+            <element signature="e#6#72#0#PHP" expanded="false" />
             <marker date="1479465045716" expanded="true" signature="403:546" ph="INSERT INTO articles" />
           </folding>
         </state>
@@ -1042,17 +1037,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/SPLIB/Database/MySQL.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="712">
+        <state relative-caret-position="3528">
           <caret line="198" column="52" selection-start-line="198" selection-start-column="52" selection-end-line="198" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/articles.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/books/src/PhpAnthology Pt 1/src/Ch 3/SPLIB/Database/MySQLDump.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
-          <folding />
+        <state relative-caret-position="752">
+          <caret line="75" column="1" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
+          <folding>
+            <element signature="e#6#72#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
