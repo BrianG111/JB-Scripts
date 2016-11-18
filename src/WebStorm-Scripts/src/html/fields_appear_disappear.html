@@ -1,0 +1,30 @@
+<html>
+    <link rel="stylesheet" type="text/css" href="fields_appear_disappear.css">
+    <script src="fields_appear_disappear.js"></script>
+    <form action="">
+        <fieldset>
+            <legend>Characters</legend>
+            <p>
+                Have you read The Hitchhiker's Guide to the Galaxy?
+            </p>
+            <input type="radio" name="read" id="readYes" />
+            <label for="readYes">
+                Yes
+            </label>
+            <input type="radio" name="read" id="readNo" />
+            <label for="readNo">
+                No
+            </label>
+            <div id="optional">
+                <label for="character">
+                    Who was your favorite character?
+                </label>
+                <select id="character" name="character">
+                    <option value="A">Marvin</option>
+                    <option value="B">Trillian</option>
+                    <option value="C">Ford</option>
+                </select>
+            </div>
+        </fieldset>
+    </form>
+</html>

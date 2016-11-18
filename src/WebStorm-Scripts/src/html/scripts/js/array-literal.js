@@ -1,0 +1,1 @@
+var planets = ['mercury', 'venus', 'earth'];

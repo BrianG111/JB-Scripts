@@ -1,0 +1,78 @@
+article, aside, figure, footer, header, hgroup, nav, section {
+    display.block
+}
+#main > div {
+    float: left;
+    overflow:hidden;
+}
+a[href^=http]:after {
+    content: " (" attr(href) ")";
+}
+a[href$=pdf] {
+    background: transparent url(pdficon.gif) 0 50% no-repeat;
+    padding-left: 20px;
+}
+a[href$=pdf]:after {
+    content: " (PDF) ";
+}
+::-moz-selection{
+    background: #484848;
+    color: #fff;
+}
+::selection {
+    background: #484848;
+    color: #fff;
+}
+form {
+    
+    background: rgba(0, 0, 0.2) url(images/bg-form.png) no-repeat
+    bottom center;
+}
+div.halfopaque {
+    background-color: rgb(0, 0 ,0);
+    opacity: 0.5;
+    color: #000000;
+}
+aside p + a {
+    display: block;
+    text-decoration: none;
+    border: 5px double;
+    color: #ffffff;
+    background-color: #484848;
+    text-align: center;
+    font-size: 28px;
+    margin: 5px 5px 9px 5px;
+    padding: 15px 0;
+    position: relative;
+}
+.moz-border-radius: 25px;
+border-radius: 25px;
+border-top-left-radius: 5px;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 15px;
+border-bottom=left=radius: 40px;
+.moz-border-radius-topleft: 5px;
+.moz-border-radius-topright: 10px;
+.moz-border-radius-bottomright: 15px;
+.moz-border-radius-bottomleft: 40px;
+input[type-submit] {
+    .moz-border-radius: 10%;
+    border-radius: 10%;
+}
+-webkit-box-shadow: 2px 5px 0 0 rgba(72,72,72,1);
+-moz-box-shadow: 2px 5px 0 0 rgba(72,72,72,1);
+box-shadow: 2px 5px 0 0 rgba(72,72,72,1);
+filter: shadow(color=#484848, direction=220, Strength=8);
+filter:progid:DXImageTransForm.Microsoft.dropshadow(OffX=2,
+  OffY=5, Color='#484848', Positive='true');
+  form {
+      .webkit-box-shadow:
+        inset 1px 1px 84px rgba(0,0,0,0.24),
+        inset -1px -1px 84px rgba(0,0,0,0.24);
+      .moz-box-shadow:
+        inset 1px 1px 84px rgba(0,0,0,0.24),
+        inset -1px -1px 84px rgba(0,0,0,0.24);
+      box-shadow:
+        inset 1px 1px 84px rgba(0,0,0,0.24),
+        inset -1px -1px 84px rgba(0,0,0,0.24);
+}
