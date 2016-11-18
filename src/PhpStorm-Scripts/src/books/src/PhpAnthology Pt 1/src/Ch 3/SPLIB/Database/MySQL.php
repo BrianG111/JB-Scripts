@@ -178,4 +178,14 @@ class MySQL {
           return $this->mysql->isError();
       }
    }
+
+   /**
+    * Returns the number of rows selected
+    * @return int
+    * @access public
+    */
+   function size()
+   {
+       return mysql_num_rows($this->query);
+   }
 }
